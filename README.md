@@ -5,7 +5,7 @@ a 5monkeys.se website scraper
 
 Story
 -----
-Sometimes ago, I got an interview test from www.5monkeys.se. Within the test, they asked me to write a python script that scrapes their website based on some requirements that they asked for. 
+Some time ago, I got an interview test from www.5monkeys.se. Within the test, they asked me to write a python script that scrapes their website based on some requirements that they asked for. 
 I implemented the the code and sent it at the same "day", but NEVER got any feedback, neither positive, nor negative!!
 
 Here is the task description and my solution... Feel free to copy and get the core idea behind it... It's GPLv2, so have fun :)
